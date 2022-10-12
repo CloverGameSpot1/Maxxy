@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6285158121779', '️One', true],
+  ['6285158121779', '️Two', true],
+  ['6285158121779', '️Three', true],
+  ['6285158121779', '️Four', true],
+  ['6285158121779', '️Five', true],
+  ['6285158121779', '️Six', true],
+  ['6285158121779', '️Seven', true],
+  ['6285158121779', '️Eight', true],
+  ['6285158121779', '️Nine', true],
+  ['6285158121779', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -89,15 +89,15 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.nomorbot = '6285228679898'
+global.nomorown = '6285158121779'
+global.namebot = 'CloverBotz'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 あ⁩ 」'
+global.wm = '                「 CloverBotz あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm3 = '⫹⫺ CloverBotz'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ CloverBotz 乂 yusuf\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = 'CloverBotz 乂 yusuf'
 global.multiplier = 10
 
 /*Pesan*/
@@ -454,16 +454,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.dana = '085158121779'
+global.pulsa = '085158121779'
 global.trakteer = ''
-global.paypal = ''
-global.gopay = ''
-global.pdana = '085380166282'
-global.povo = ''
-global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.paypal = '085158121779'
+global.gopay = '085158121779'
+global.pdana = '085158121779'
+global.povo = '085158121779'
+global.pgopay = '085158121779'
+global.ppulsa = '085158121779'
+global.ppulsa2 = '085158121779'
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*Emoji*/
